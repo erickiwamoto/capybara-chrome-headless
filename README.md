@@ -17,9 +17,3 @@ git clone https://github.com/papitoio/capybara-chrome-headless.git
 ```    
 bundle install
 
-
-### Executar o Teste
-
-```
-cucumber
-```
