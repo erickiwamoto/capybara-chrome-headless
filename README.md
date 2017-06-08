@@ -23,5 +23,3 @@ bundle install
 ```
 cucumber
 ```
-
-
